@@ -12,7 +12,7 @@ This project is an open source implementation of a generic asset tracking platfo
 Full specifications will follow later, but for now the general requirements are:
 * determine position/location with onboard GPS
 * sensor inputs and output
-* report position log, sensor statusses to a backend useing one of the following possible communciations interfaces"
+* report position log, sensor statusses to a backend useing one of the following possible communciations interfaces
 ..1. GSM/GPRS
 ..2. Iridium satellite modem
 ..3. WIFI connection
