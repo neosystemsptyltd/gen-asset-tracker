@@ -27,5 +27,5 @@ Full specifications will follow later, but for now the general requirements are:
 * Scripting features
 * and many more as the project evolves
 
-If you are interested in assisting please do not hesitate to contact me.
+If you are interested in assisting please do not hesitate to contact me. I can be emailed at info@neosystems.co.za
 
