@@ -1,5 +1,5 @@
 # gen-asset-tracker
-Generic asset tracker device with multiple communications interfaces
+Generic asset tracker device with multiple communications interfaces. This is also sometimes referred to as a hybrid tracking systems in the industry due to the fact that it can communicate on more than one communications device, depending on the conditions.
 
 # License
 The Generic asset tracker device is licensed under the GNU Affero General Public License V3.0
