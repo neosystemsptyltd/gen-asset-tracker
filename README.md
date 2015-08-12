@@ -13,12 +13,12 @@ Full specifications will follow later, but for now the general requirements are:
 * determine position/location with onboard GPS
 * sensor inputs and output
 * report position log, sensor statusses to a backend useing one of the following possible communciations interfaces"
-** GSM/GPRS
-** Iridium satellite modem
-** WIFI connection
-** proprietary 433MHz/868MHz/2.4GHz RF interfaces
-** Bluetooth interface
-** POssible NFC
+..* GSM/GPRS
+..* Iridium satellite modem
+..* WIFI connection
+..* proprietary 433MHz/868MHz/2.4GHz RF interfaces
+..* Bluetooth interface
+..* POssible NFC
 * RFID interface on device
 * Possible IP67 rating
 * Run for a period of two years from a battery pack
